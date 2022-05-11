@@ -1,0 +1,8 @@
+body {
+    font-size: 1.3rem;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+.wrapper {
+    max-width: 760px;
+    margin: 0 auto;
+}
